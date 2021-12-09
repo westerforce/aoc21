@@ -7,7 +7,7 @@ It's all Apex, and all solutions are "built" using Anonymous Apex. Data is sourc
 |   |   |   |
 |---|---|---|
 Day 1 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part2.apex)
-Day 2 | Part 1 | Part 2
+Day 2 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part2.apex)
 Day 3 | Part 1 | Part 2
 Day 4 | Part 1 | Part 2
 Day 5 | Part 1 | Part 2
