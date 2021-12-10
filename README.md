@@ -4,8 +4,8 @@ Check here my efforts for Advent of Code 2021!
 
 It's all Apex, and all solutions are "built" using Anonymous Apex. Data is sourced from a class for readability purposes.
 
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
 Day 1 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part2.apex) |   | Day 11 | Part 1 | Part 2 |   | Day 21 | Part 1 | Part 2
 Day 2 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part2.apex) |   | Day 12 | Part 1 | Part 2 |   | Day 22 | Part 1 | Part 2
 Day 3 | Part 1 | Part 2 |   | Day 13 | Part 1 | Part 2 |   | Day 23 | Part 1 | Part 2
