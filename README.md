@@ -7,7 +7,7 @@ It's all Apex, and all solutions are "built" using Anonymous Apex. Data is sourc
 |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 Day 1 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day1_Part2.apex) |   | Day 11 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day11_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day11_Part2.apex) |   | Day 21 | Part 1 | Part 2
-Day 2 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part2.apex) |   | Day 12 | Part 1 | Part 2 |   | Day 22 | Part 1 | Part 2
+Day 2 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day2_Part2.apex) |   | Day 12 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day12_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day12_Part2.apex) |   | Day 22 | Part 1 | Part 2
 Day 3 | Part 1 | Part 2 |   | Day 13 | [Part 1](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day13_Part1.apex) | [Part 2](https://github.com/westerforce/aoc21/blob/master/scripts/AOC_21_Day13_Part2.apex) |   | Day 23 | Part 1 | Part 2
 Day 4 | Part 1 | Part 2 |   | Day 14 | Part 1 | Part 2 |   | Day 24 | Part 1 | Part 2
 Day 5 | Part 1 | Part 2 |   | Day 15 | Part 1 | Part 2 |   | Day 25 | Part 1 | Part 2
