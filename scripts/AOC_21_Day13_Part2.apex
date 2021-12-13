@@ -8,18 +8,17 @@ Set<String> foldedPaper = thermalInput;
 
 for(String fold : foldInput){
     Set<String> foldInProgress = new Set<String>();
-    String firstFoldDirection = fold.contains('x') ? 'x' : 'y';
+    String foldDirection = fold.contains('x') ? 'x' : 'y';
     Integer firstFold = Integer.valueOf(fold.split('=')[1]);
 
     for(String input : foldedPaper) {
         Integer xPos = Integer.valueOf(input.split(',')[0]);
         Integer yPos = Integer.valueOf(input.split(',')[1]);
-        if(firstFoldDirection == 'y'){
+        if(foldDirection == 'y'){
             if(yPos < firstFold) {
                 foldInProgress.add(input);
                 continue;
             } else if(yPos > firstFold) {
-
                 yPos = (firstFold * 2) - yPos ;
                 foldInProgress.add(xPos + ',' + yPos);
             }
